@@ -1,4 +1,4 @@
-<img width="500" alt="Personalised workspace" src="https://github.com/slechtajakub/Claude_personalised_workspace_systems/blob/main/infographic-personalised%20systems.png?raw=true" />
+<img width="400" alt="Personalised workspace" src="https://github.com/slechtajakub/Claude_personalised_workspace_systems/blob/main/infographic-personalised%20systems.png?raw=true" />
 
 # Personalised workspace systems
 
